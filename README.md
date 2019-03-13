@@ -12,9 +12,9 @@ The agents are assigned speeds at  random.
 Once the model is started, the agents move from A to B, then they change direction 
 and head back to their start position. The process repeats until the user quits.
 
-The data files can be found here: https://drive.google.com/open?id=1gs28hRC_7HmiNVs6LNl5oPTnrpu6dBEQ
+The data files can be found here: https://drive.google.com/drive/folders/1K-nhtXOd_Df_OXf3J3hSuHtayD9CsIGR?usp=sharing
 
-All the necessary JARs can be found here: https://drive.google.com/file/d/1sxW6EAw3tkWAqI834Cf4YVcAkSyHJ6TS/view?usp=sharing
+All the necessary JARs can be found here: https://drive.google.com/drive/folders/1oXAveLpFF2xyhR4rH24wSHY9F5x-EMRN?usp=sharing
 
 The MASON manual can be found here: https://drive.google.com/open?id=1ayvTOzeD8rzYWvBAohJ_01NfWDOuqU2q
 
