@@ -1,8 +1,6 @@
-# EngD_Final_Model
+# EngD Model
 
 This is the final iteration of my EngD Model.
-The main changes from MK_9 are the adaptations of model recording and 
-reporting.
 
 The model reads a number of GIS shapefiles and displays a road network, two  Environment Agency
 flood maps and a bespoke Open Source Vulnerability Index (OSVI).
